@@ -1,0 +1,5 @@
+{
+  "name": "First Voice Agri Bot",
+  "description": "A voice-first AI assistant for Indian farmers supporting 6 regional languages with crop advisory, task management, and weather alerts.",
+  "requestFramePermissions": ["microphone", "geolocation"]
+}
